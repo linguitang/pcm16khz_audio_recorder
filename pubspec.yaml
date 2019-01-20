@@ -1,8 +1,8 @@
 name: pcm16khz_audio_recorder
 description: A new flutter plugin project.
 version: 0.0.1
-author:linguitang
-homepage:https://github.com/linguitang/pcm16khz_audio_recorder
+author: linguitang
+homepage: https://github.com/linguitang/pcm16khz_audio_recorder
 
 dependencies:
   flutter:
